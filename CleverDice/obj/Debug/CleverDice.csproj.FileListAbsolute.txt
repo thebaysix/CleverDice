@@ -1,0 +1,7 @@
+C:\Code\CleverDice\CleverDice\bin\Debug\CleverDice.exe.config
+C:\Code\CleverDice\CleverDice\bin\Debug\CleverDice.exe
+C:\Code\CleverDice\CleverDice\bin\Debug\CleverDice.pdb
+C:\Code\CleverDice\CleverDice\obj\Debug\CleverDice.csprojAssemblyReference.cache
+C:\Code\CleverDice\CleverDice\obj\Debug\CleverDice.csproj.CoreCompileInputs.cache
+C:\Code\CleverDice\CleverDice\obj\Debug\CleverDice.exe
+C:\Code\CleverDice\CleverDice\obj\Debug\CleverDice.pdb
